@@ -1,0 +1,86 @@
+.container{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(135deg, #eeaeca, #94bbe9);
+  padding: 10px;
+}
+
+.guid-app{
+  background-color: rgba(255, 255, 255, 0.61);
+  width: 80vw;
+  max-width: 30em;
+  padding: 2em 2.5em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 45%;
+  left: 50%;
+  border-radius: 0.62em;
+  box-shadow: 0 1.25em 1.8em rgba(8, 21, 65, 0.25);
+}
+
+.search-wrapper{
+  display: grid;
+  grid-template-columns: 9fr 3fr;
+  gap: 1.25em;
+}
+
+.search-wrapper button{
+  font-size: 1em;
+  background: linear-gradient(135deg, #94bbe9, #eeaeca);
+  color: #ffffff;
+  padding: 0.8em 0em;
+  border: none;
+  outline: none;
+  border-radius: 1.5em;
+}
+
+.search-wrapper input{
+  font-size: 1em;
+  padding: 0 0.62em;
+  border: none;
+  border-bottom: 2px solid #94bbe9;
+  outline: none;
+  color: #222a43;
+  background-color: transparent;
+}
+
+#result{
+  margin-top: 1.5em;
+}
+.guid-app .flag-img{
+  display: block;
+  width: 45%;
+  min-width: 7.5em;
+  margin: 1.8em auto 1.2em auto;
+}
+
+.guid-app h2{
+  font-weight: 600;
+  color: #222a43;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1.8em;
+}
+
+.data-wrapper{
+  margin-top: 1em;
+  letter-spacing: 0.3px;
+}
+
+.guid-app h4{
+  display: inline;
+  font-size: 17px;
+  font-weight: 600;
+  color: #222a43;
+}
+.guid-app span{
+ color: #5d6274;
+}
+
+.guid-app h3{
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 400;
+  color: red;
+}
