@@ -4,7 +4,7 @@
 https://country-guide-developed-in-react.netlify.app/
 
 ### 📸 Screenshots
-![My application screenshot](/src/assets/images/cg-screenshot.jpg)
+![My application screenshot](/src/assets/images/cg-screenshot.JPG)
 
 
 ### 🛠 Tech Used
@@ -17,5 +17,5 @@ HTML, CSS, JavaScript, React.
 - Clean UI
 
 ### 📂 How to Run
-npm install
+npm install <br/>
 npm start OR npm run dev
