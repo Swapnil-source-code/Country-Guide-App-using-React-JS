@@ -4,7 +4,7 @@
 https://country-guide-developed-in-react.netlify.app/
 
 ### 📸 Screenshots
-![My application screenshot](/images/cg-screenshot.jpg)
+![My application screenshot](/src/assets/images/cg-screenshot.jpg)
 
 
 ### 🛠 Tech Used
